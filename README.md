@@ -1,4 +1,4 @@
-# Automation tests**
+# Automation tests
 **Version 1.0.0**
 **This is one example of an automation tests**
 ---
