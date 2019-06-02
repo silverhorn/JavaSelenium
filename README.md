@@ -1,6 +1,6 @@
-# Automation-tests
+# Automation tests**
 **Version 1.0.0**
-This is one example of an automation tests
+**This is one example of an automation tests**
 ---
 ## Create automated tests using Selenium and Page Object Model pattern to perform the following steps
 
